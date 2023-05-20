@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krios2146&size_weight=1&count_weight=0&theme=github_dark&hide_border=true&layout=donut&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&line1=spring,spring,auto;spring%20boot,spring%20boot,auto;hibernate,hibernate,auto;docker,docker,auto;postgresql,postgresql,auto;&width=1000)
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&line1=spring,spring,auto;spring%20boot,spring%20boot,auto;hibernate,hibernate,auto;docker,docker,auto;postgresql,postgresql,auto;&width=670)
 <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krios2146)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
