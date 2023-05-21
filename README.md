@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krios2146&count_private=true&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krios2146&size_weight=1&count_weight=0&theme=github_dark&hide_border=true&layout=donut&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&line1=spring,spring,auto;spring%20boot,spring%20boot,auto;docker,docker,auto;hibernate,hibernate,59666C;postgresql,postgresql,auto;angular,angular,auto;&width=780)
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&title=Tech%20Stack&lineCount=1&line1=spring,spring,auto;spring%20boot,spring%20boot,auto;docker,docker,auto;hibernate,hibernate,59666C;postgresql,postgresql,auto;angular,angular,auto;&width=780)
 
 <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krios2146)](https://github.com/anuraghazra/github-readme-stats) -->
 
