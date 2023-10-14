@@ -5,11 +5,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krios2146&size_weight=1&count_weight=0&layout=donut&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css,dockerfile,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&title=Tech%20Stack&lineCount=1&line1=spring,spring,auto;spring%20boot,spring%20boot,auto;docker,docker,auto;hibernate,hibernate,59666C;postgresql,postgresql,auto;angular,angular,auto;&width=780)
-
 ![](https://hit.yhype.me/github/profile?user_id=91407999)
 
 ---
-
 
 ![Wakatime stats | 300](https://github-readme-stats.vercel.app/api/wakatime?username=krios2146&theme=github_dark&layout=compact&langs_count=6&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=krios2146&theme=github-dark&hide_border=true&fire=39D353&stroke=B1BAC400&dates=8B949E&ring=388bfd&card_width=340)](https://git.io/streak-stats)
