@@ -9,7 +9,7 @@
 
 ---
 
-![Wakatime stats | 300](https://github-readme-stats.vercel.app/api/wakatime?username=krios2146&theme=github_dark&layout=compact&langs_count=6&hide_border=true&hide=html,yaml)
+![Wakatime stats | 300](https://github-readme-stats.vercel.app/api/wakatime?username=krios2146&theme=github_dark&layout=compact&langs_count=6&hide_border=true&hide=HTML,YAML,HTTP%20Request)
 [![GitHub Streak](https://streak-stats.demolab.com?user=krios2146&theme=github-dark&hide_border=true&fire=39D353&stroke=B1BAC400&dates=8B949E&ring=388bfd&card_width=340)](https://git.io/streak-stats)
 
 <!-- Tech Stack 
