@@ -12,10 +12,13 @@
 ![Wakatime stats | 300](https://github-readme-stats.vercel.app/api/wakatime?username=krios2146&theme=github_dark&layout=compact&langs_count=6&hide_border=true&hide=HTML,YAML,HTTP%20Request,Markdown,XML)
 [![GitHub Streak](https://streak-stats.demolab.com?user=krios2146&theme=github-dark&hide_border=true&fire=39D353&stroke=B1BAC400&dates=8B949E&ring=388bfd&card_width=340)](https://git.io/streak-stats)
 
-<!--
-![](http://78.153.130.215/api/krios2146/pie/languages?hide=bash)
-![](http://78.153.130.215/api/krios2146/pie/editors)
--->
+---
+
+#### WakaTime weekly stats
+
+![](http://78.153.130.215/api/krios2146/pie/languages?hide=http**,**ml,docker**,json&width=450&height=215&vue.js=41b883&bash=89e051)
+![](http://78.153.130.215/api/krios2146/pie/editors?width=450&height=215&intellij%20idea=1e88e5&neovim=589233)
+
 <!-- Tech Stack 
 [![Spring](https://img.shields.io/badge/spring-161b22?style=for-the-badge&logo=spring)](https://spring.io)
 [![Spring Boot](https://img.shields.io/badge/spring_boot-161b22?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)
