@@ -16,7 +16,7 @@
 
 ### WakaTime weekly stats
 
-![](http://78.153.130.215/api/krios2146/pie/languages?hide=http**,**ml,docker**,json&width=420&height=215&vue.js=41b883&bash=89e051)
+![](http://78.153.130.215/api/krios2146/pie/languages?hide=http**,**ml,docker**,gitignore,conf,json&width=420&height=215&vue.js=41b883&bash=89e051)
 ![](http://78.153.130.215/api/krios2146/pie/editors?width=420&height=215&intellij%20idea=1e88e5&neovim=589233)
 
 <!-- Tech Stack 
