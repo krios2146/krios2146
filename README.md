@@ -22,6 +22,7 @@
 [![Go](https://img.shields.io/badge/go-161b22?style=for-the-badge&logo=go)](https://go.dev/)
 [![Gleam](https://img.shields.io/badge/gleam-161b22?style=for-the-badge&logo=gleam)](https://gleam.run/)
 [![Odin](https://img.shields.io/badge/odin-161b22?style=for-the-badge&logo=odin)](https://odin-lang.org/)
+[![HTMX](https://img.shields.io/badge/htmx-161b22?style=for-the-badge&logo=htmx)](https://htmx.org/)
 
 <!-- ![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&title=Tech%20Stack&lineCount=1&line1=spring,spring,auto;spring%20boot,spring%20boot,auto;docker,docker,auto;hibernate,hibernate,59666C;postgresql,postgresql,auto;vue.js,vue,auto;&width=780)
 ![](https://hit.yhype.me/github/profile?user_id=91407999)-->
