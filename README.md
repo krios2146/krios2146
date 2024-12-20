@@ -22,7 +22,7 @@
 
 #### Want to try someday
 
-[![Odin](https://img.shields.io/badge/odin-161b22?style=for-the-badge&logo=odin-language)](https://odin-lang.org/)
+[![Odin](https://img.shields.io/badge/odin-161b22?style=for-the-badge&logo=odin)](https://odin-lang.org/)
 [![HTMX](https://img.shields.io/badge/htmx-161b22?style=for-the-badge&logo=htmx)](https://htmx.org/)
 
 
