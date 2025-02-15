@@ -13,6 +13,7 @@
 
 #### Used a few times, but don't really know what I'm doing
 
+[![Kotlin](https://img.shields.io/badge/kotlin-161b22?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 [![OCaml](https://img.shields.io/badge/ocaml-161b22?style=for-the-badge&logo=ocaml)](https://ocaml.org/)
 [![Vue](https://img.shields.io/badge/vue-161b22?style=for-the-badge&logo=vuedotjs)](https://vuejs.org/)
 
