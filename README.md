@@ -13,13 +13,15 @@
 
 #### Used a few times, but don't really know what I'm doing
 
-[![Kotlin](https://img.shields.io/badge/kotlin-161b22?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
-[![OCaml](https://img.shields.io/badge/ocaml-161b22?style=for-the-badge&logo=ocaml)](https://ocaml.org/)
 [![Vue](https://img.shields.io/badge/vue-161b22?style=for-the-badge&logo=vuedotjs)](https://vuejs.org/)
+[![Python](https://img.shields.io/badge/python-161b22?style=for-the-badge&logo=python)](https://www.python.org/)
+[![OCaml](https://img.shields.io/badge/ocaml-161b22?style=for-the-badge&logo=ocaml)](https://ocaml.org/)
+[![Kotlin](https://img.shields.io/badge/kotlin-161b22?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 
-[![Godot](https://img.shields.io/badge/godot-161b22?style=for-the-badge&logo=godotengine)](https://godotengine.org/)
+
 [![Go](https://img.shields.io/badge/go-161b22?style=for-the-badge&logo=go)](https://go.dev/)
 [![Gleam](https://img.shields.io/badge/gleam-161b22?style=for-the-badge&logo=gleam)](https://gleam.run/)
+[![Godot](https://img.shields.io/badge/godot-161b22?style=for-the-badge&logo=godotengine)](https://godotengine.org/)
 
 #### Want to try someday
 
