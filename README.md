@@ -1,8 +1,8 @@
 ![github-header-image (11)](https://github.com/krios2146/krios2146/assets/91407999/3750953e-cfdb-420b-84be-59ff79dae164)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=krios2146&count_private=true&show_icons=true&theme=github_dark&hide_border=true&show=prs_merged_percentage#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krios2146&size_weight=1&count_weight=0&layout=donut&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css,dockerfile,c%23,typescript)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 #### Have the most expirience with
 
@@ -30,7 +30,7 @@
 
 ---
 
-![Wakatime stats | 300](https://github-readme-stats.vercel.app/api/wakatime?username=krios2146&theme=github_dark&layout=compact&langs_count=6&hide_border=true&hide=HTML,YAML,HTTP%20Request,Markdown,XML)
+![Wakatime stats | 300](./profile/wakatime.svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=krios2146&theme=github-dark&hide_border=true&fire=39D353&stroke=B1BAC400&dates=8B949E&ring=388bfd&card_width=340)](https://git.io/streak-stats)
 
 <!--
