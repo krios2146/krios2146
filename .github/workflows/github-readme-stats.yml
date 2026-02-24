@@ -26,7 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=krios2146&size_weight=1&count_weight=0&layout=donut&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css,dockerfile,c%23,typescript
+          options: username=krios2146&size_weight=0.5&count_weight=0.5&layout=donut&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css,dockerfile,c%23,typescript
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
