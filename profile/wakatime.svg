@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="251.4255"
+            width="250.91400000000002"
             height="8"
             fill="#b07219"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="251.4255"
+            x="250.91400000000002"
             y="0"
-            width="66.5415"
+            width="66.402"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="317.967"
+            x="317.31600000000003"
             y="0"
-            width="53.6145"
+            width="53.847"
             height="8"
             fill="#00ADD8"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="371.5815"
+            x="371.163"
             y="0"
-            width="42.035999999999994"
+            width="41.943000000000005"
             height="8"
             fill="#3572A5"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="413.6175"
+            x="413.106"
             y="0"
-            width="27.156"
+            width="27.2025"
             height="8"
             fill="#ef7a08"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="440.7735"
+            x="440.3085"
             y="0"
-            width="23.854499999999998"
+            width="23.7615"
             height="8"
             fill="#000080"
           />
@@ -202,7 +202,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go - 167 hrs 51 mins
+        Go - 168 hrs 50 mins
       </text>
     </g>
   
@@ -216,7 +216,7 @@
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#ef7a08" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        OCaml - 84 hrs 56 mins
+        OCaml - 85 hrs 12 mins
       </text>
     </g>
   
