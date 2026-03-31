@@ -169,7 +169,7 @@
             data-testid="lang-progress"
             x="413.106"
             y="0"
-            width="27.2025"
+            width="27.156"
             height="8"
             fill="#ef7a08"
           />
@@ -177,7 +177,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="440.3085"
+            x="440.262"
             y="0"
             width="23.7615"
             height="8"
@@ -209,7 +209,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 131 hrs 32 mins
+        Python - 131 hrs 34 mins
       </text>
     </g>
   
