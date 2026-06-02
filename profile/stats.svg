@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Vladimir Kidyaev's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 103, Total Commits  (last year) : 209, Total PRs: 134, Merged PRs Percentage: 94.78, Total Issues: 49, Contributed to (last year): 9</desc>
+        <title id="titleId">Vladimir Kidiaev's GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 103, Total Commits  (last year) : 210, Total PRs: 134, Merged PRs Percentage: 94.78, Total Issues: 50, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 91.24887394203047;
+        stroke-dashoffset: 91.03670055951474;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Vladimir Kidyaev's GitHub Stats</text>
+      >Vladimir Kidiaev's GitHub Stats</text>
     </g>
       </g>
     
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >209</text>
+      >210</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >49</text>
+      >50</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -237,7 +237,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >9</text>
+      >10</text>
     </g>
   </g>
     </svg>
