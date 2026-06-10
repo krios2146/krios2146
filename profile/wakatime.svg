@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="248.1705"
+            width="248.86800000000002"
             height="8"
             fill="#b07219"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="248.1705"
+            x="248.86800000000002"
             y="0"
-            width="65.61149999999999"
+            width="65.7975"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="313.782"
+            x="314.6655"
             y="0"
-            width="56.869499999999995"
+            width="57.00899999999999"
             height="8"
             fill="#00ADD8"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="370.6515"
+            x="371.6745"
             y="0"
-            width="42.687"
+            width="42.8265"
             height="8"
             fill="#3572A5"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="413.3385"
+            x="414.50100000000003"
             y="0"
-            width="26.830499999999997"
+            width="26.9235"
             height="8"
             fill="#ef7a08"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="440.169"
+            x="441.4245"
             y="0"
-            width="24.3195"
+            width="24.459"
             height="8"
             fill="#000080"
           />
@@ -223,7 +223,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua - 77 hrs 7 mins
+        Lua - 77 hrs 14 mins
       </text>
     </g>
   
