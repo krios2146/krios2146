@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="246.45"
+            width="246.2175"
             height="8"
             fill="#b07219"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="246.45"
+            x="246.2175"
             y="0"
-            width="65.1465"
+            width="65.0535"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="311.5965"
+            x="311.271"
             y="0"
-            width="59.89200000000001"
+            width="60.7755"
             height="8"
             fill="#00ADD8"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="371.4885"
+            x="372.04650000000004"
             y="0"
-            width="42.501000000000005"
+            width="42.45450000000001"
             height="8"
             fill="#3572A5"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="413.9895"
+            x="414.50100000000003"
             y="0"
-            width="26.644500000000004"
+            width="26.598"
             height="8"
             fill="#ef7a08"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="440.634"
+            x="441.09900000000005"
             y="0"
-            width="24.18"
+            width="24.087"
             height="8"
             fill="#000080"
           />
@@ -188,7 +188,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java - 786 hrs 55 mins
+        Java - 787 hrs 38 mins
       </text>
     </g>
   
@@ -202,7 +202,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go - 191 hrs 10 mins
+        Go - 194 hrs 22 mins
       </text>
     </g>
   
