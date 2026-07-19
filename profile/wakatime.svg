@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="243.2415"
+            width="242.91600000000003"
             height="8"
             fill="#b07219"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="243.2415"
+            x="242.91600000000003"
             y="0"
-            width="64.35600000000001"
+            width="65.23949999999999"
             height="8"
             fill="#00ADD8"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="307.5975"
+            x="308.1555"
             y="0"
-            width="64.263"
+            width="64.21650000000001"
             height="8"
             fill="#858585"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="371.8605"
+            x="372.372"
             y="0"
-            width="41.896499999999996"
+            width="41.85"
             height="8"
             fill="#3572A5"
           />
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="413.757"
+            x="414.22200000000004"
             y="0"
             width="26.226"
             height="8"
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="439.983"
+            x="440.44800000000004"
             y="0"
-            width="23.9475"
+            width="23.854499999999998"
             height="8"
             fill="#000080"
           />
@@ -195,7 +195,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go - 208 hrs 26 mins
+        Go - 211 hrs 31 mins
       </text>
     </g>
   
