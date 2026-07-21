@@ -1,13 +1,9 @@
-![github-header-image (11)](https://github.com/krios2146/krios2146/assets/91407999/3750953e-cfdb-420b-84be-59ff79dae164)
+![github-header-image](https://github.com/krios2146/krios2146/assets/91407999/3750953e-cfdb-420b-84be-59ff79dae164)
 
-
-![GitHub stats](./profile/stats.svg)
-![Top Langs](./profile/top-langs.svg)
 
 #### Have the most expirience with
 
-[![Spring](https://img.shields.io/badge/spring-161b22?style=for-the-badge&logo=spring)](https://spring.io/)
-[![Spring Boot](https://img.shields.io/badge/spring%20boot-161b22?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)
+[![Go](https://img.shields.io/badge/go-161b22?style=for-the-badge&logo=go)](https://go.dev/)
 [![Docker](https://img.shields.io/badge/docker-161b22?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Postgres](https://img.shields.io/badge/postgres-161b22?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
@@ -18,8 +14,6 @@
 [![OCaml](https://img.shields.io/badge/ocaml-161b22?style=for-the-badge&logo=ocaml)](https://ocaml.org/)
 [![Kotlin](https://img.shields.io/badge/kotlin-161b22?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 
-
-[![Go](https://img.shields.io/badge/go-161b22?style=for-the-badge&logo=go)](https://go.dev/)
 [![Gleam](https://img.shields.io/badge/gleam-161b22?style=for-the-badge&logo=gleam)](https://gleam.run/)
 [![Godot](https://img.shields.io/badge/godot-161b22?style=for-the-badge&logo=godotengine)](https://godotengine.org/)
 
@@ -27,6 +21,11 @@
 
 [![Odin](https://img.shields.io/badge/odin-161b22?style=for-the-badge&logo=odin)](https://odin-lang.org/)
 [![HTMX](https://img.shields.io/badge/htmx-161b22?style=for-the-badge&logo=htmx)](https://htmx.org/)
+
+---
+
+![GitHub stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 ---
 
