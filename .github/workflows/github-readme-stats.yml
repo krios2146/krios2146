@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=krios2146&show_icons=true&theme=github_dark&hide_border=true&show=prs_merged_percentage
@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=krios2146&size_weight=0.5&count_weight=0.5&layout=donut&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css,dockerfile,c%23,typescript,java
@@ -31,7 +31,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate WakaTime card
-        uses: stats-organization/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
           options: username=krios2146&theme=github_dark&layout=compact&langs_count=6&hide_border=true&hide=HTML,YAML,HTTP%20Request,Markdown,XML,Java
