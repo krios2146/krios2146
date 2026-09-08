@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="130.6185"
+            width="130.851"
             height="8"
             fill="#00ADD8"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="130.6185"
+            x="130.851"
             y="0"
-            width="121.73700000000001"
+            width="122.15549999999999"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="252.3555"
+            x="253.0065"
             y="0"
-            width="87.28049999999999"
+            width="87.699"
             height="8"
             fill="#3572A5"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="339.63599999999997"
+            x="340.7055"
             y="0"
-            width="49.801500000000004"
+            width="49.848"
             height="8"
             fill="#ef7a08"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="389.4375"
+            x="390.5535"
             y="0"
-            width="45.57"
+            width="45.7095"
             height="8"
             fill="#000080"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="435.0075"
+            x="436.263"
             y="0"
-            width="29.341499999999996"
+            width="29.4345"
             height="8"
             fill="#dea584"
           />
@@ -202,7 +202,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 149 hrs 5 mins
+        Python - 149 hrs 24 mins
       </text>
     </g>
   
