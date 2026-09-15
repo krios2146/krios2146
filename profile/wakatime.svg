@@ -138,7 +138,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="132.10649999999998"
+            width="132.38549999999998"
             height="8"
             fill="#00ADD8"
           />
@@ -146,9 +146,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="132.10649999999998"
+            x="132.38549999999998"
             y="0"
-            width="120.62100000000001"
+            width="120.85349999999998"
             height="8"
             fill="#858585"
           />
@@ -156,9 +156,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="252.7275"
+            x="253.23899999999998"
             y="0"
-            width="86.676"
+            width="86.81550000000001"
             height="8"
             fill="#3572A5"
           />
@@ -166,9 +166,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="339.4035"
+            x="340.05449999999996"
             y="0"
-            width="49.243500000000004"
+            width="49.382999999999996"
             height="8"
             fill="#ef7a08"
           />
@@ -176,9 +176,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="388.647"
+            x="389.43749999999994"
             y="0"
-            width="46.128"
+            width="46.2675"
             height="8"
             fill="#000080"
           />
@@ -186,9 +186,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="434.775"
+            x="435.7049999999999"
             y="0"
-            width="29.666999999999998"
+            width="29.76"
             height="8"
             fill="#858585"
           />
@@ -225,7 +225,7 @@
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua - 79 hrs 34 mins
+        Lua - 79 hrs 45 mins
       </text>
     </g>
   
