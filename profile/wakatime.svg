@@ -138,7 +138,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="132.618"
+            width="133.6875"
             height="8"
             fill="#00ADD8"
           />
@@ -146,9 +146,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="132.618"
+            x="133.6875"
             y="0"
-            width="120.528"
+            width="119.83049999999999"
             height="8"
             fill="#858585"
           />
@@ -156,9 +156,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="253.14600000000002"
+            x="253.51799999999997"
             y="0"
-            width="86.49"
+            width="86.07150000000001"
             height="8"
             fill="#3572A5"
           />
@@ -166,9 +166,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="339.636"
+            x="339.5895"
             y="0"
-            width="49.382999999999996"
+            width="49.104000000000006"
             height="8"
             fill="#ef7a08"
           />
@@ -176,9 +176,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="389.019"
+            x="388.6935"
             y="0"
-            width="46.2675"
+            width="45.9885"
             height="8"
             fill="#000080"
           />
@@ -186,9 +186,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="435.2865"
+            x="434.68199999999996"
             y="0"
-            width="30.039"
+            width="29.946000000000005"
             height="8"
             fill="#858585"
           />
@@ -197,7 +197,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go - 229 hrs 12 mins
+        Go - 232 hrs 10 mins
       </text>
     </g>
   
