@@ -188,7 +188,7 @@
             data-testid="lang-progress"
             x="435.1935"
             y="0"
-            width="30.039"
+            width="30.317999999999998"
             height="8"
             fill="#858585"
           />
@@ -211,7 +211,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 149 hrs 25 mins
+        Python - 149 hrs 30 mins
       </text>
     </g>
   
@@ -232,7 +232,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Bash - 52 hrs 7 mins
+        Bash - 52 hrs 29 mins
       </text>
     </g>
   
