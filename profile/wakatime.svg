@@ -138,7 +138,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="135.036"
+            width="135.315"
             height="8"
             fill="#00ADD8"
           />
@@ -146,7 +146,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="135.036"
+            x="135.315"
             y="0"
             width="118.7145"
             height="8"
@@ -156,9 +156,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="253.7505"
+            x="254.02949999999998"
             y="0"
-            width="85.7925"
+            width="85.97849999999998"
             height="8"
             fill="#3572A5"
           />
@@ -166,7 +166,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="339.543"
+            x="340.008"
             y="0"
             width="48.639"
             height="8"
@@ -176,7 +176,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="388.182"
+            x="388.647"
             y="0"
             width="45.57"
             height="8"
@@ -186,7 +186,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="433.752"
+            x="434.217"
             y="0"
             width="31.015500000000003"
             height="8"
@@ -197,7 +197,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go - 236 hrs 34 mins
+        Go - 237 hrs 10 mins
       </text>
     </g>
   
@@ -211,7 +211,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 150 hrs 27 mins
+        Python - 150 hrs 38 mins
       </text>
     </g>
   
