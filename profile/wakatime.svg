@@ -138,7 +138,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="135.1755"
+            width="135.036"
             height="8"
             fill="#00ADD8"
           />
@@ -146,9 +146,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="135.1755"
+            x="135.036"
             y="0"
-            width="118.575"
+            width="118.43549999999999"
             height="8"
             fill="#858585"
           />
@@ -156,7 +156,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="253.7505"
+            x="253.4715"
             y="0"
             width="85.7925"
             height="8"
@@ -166,7 +166,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="339.543"
+            x="339.264"
             y="0"
             width="48.639"
             height="8"
@@ -176,7 +176,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="388.182"
+            x="387.903"
             y="0"
             width="45.57"
             height="8"
@@ -186,7 +186,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="433.752"
+            x="433.473"
             y="0"
             width="31.015500000000003"
             height="8"
@@ -218,14 +218,14 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#ef7a08" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        OCaml - 85 hrs 19 mins
+        OCaml - 85 hrs 20 mins
       </text>
     </g>
   
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua - 79 hrs 52 mins
+        Lua - 80 hrs 2 mins
       </text>
     </g>
   
