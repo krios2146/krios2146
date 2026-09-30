@@ -158,7 +158,7 @@
             data-testid="lang-progress"
             x="253.4715"
             y="0"
-            width="85.7925"
+            width="85.653"
             height="8"
             fill="#3572A5"
           />
@@ -166,7 +166,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="339.264"
+            x="339.1245"
             y="0"
             width="48.639"
             height="8"
@@ -176,9 +176,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="387.903"
+            x="387.7635"
             y="0"
-            width="45.57"
+            width="45.7095"
             height="8"
             fill="#000080"
           />
@@ -188,7 +188,7 @@
             data-testid="lang-progress"
             x="433.473"
             y="0"
-            width="31.015500000000003"
+            width="30.875999999999998"
             height="8"
             fill="#858585"
           />
@@ -218,14 +218,14 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#ef7a08" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        OCaml - 85 hrs 20 mins
+        OCaml - 85 hrs 24 mins
       </text>
     </g>
   
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua - 80 hrs 2 mins
+        Lua - 80 hrs 11 mins
       </text>
     </g>
   
