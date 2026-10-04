@@ -148,7 +148,7 @@
             data-testid="lang-progress"
             x="137.082"
             y="0"
-            width="117.97050000000002"
+            width="117.831"
             height="8"
             fill="#858585"
           />
@@ -156,9 +156,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="255.0525"
+            x="254.913"
             y="0"
-            width="85.51350000000001"
+            width="85.374"
             height="8"
             fill="#3572A5"
           />
@@ -166,9 +166,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="340.56600000000003"
+            x="340.28700000000003"
             y="0"
-            width="48.7785"
+            width="48.918"
             height="8"
             fill="#ef7a08"
           />
@@ -176,7 +176,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="389.34450000000004"
+            x="389.20500000000004"
             y="0"
             width="45.38399999999999"
             height="8"
@@ -186,7 +186,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="434.72850000000005"
+            x="434.58900000000006"
             y="0"
             width="30.875999999999998"
             height="8"
@@ -218,7 +218,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#ef7a08" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        OCaml - 86 hrs 7 mins
+        OCaml - 86 hrs 25 mins
       </text>
     </g>
   
