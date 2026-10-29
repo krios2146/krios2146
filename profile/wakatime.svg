@@ -138,7 +138,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="142.383"
+            width="142.5225"
             height="8"
             fill="#00ADD8"
           />
@@ -146,9 +146,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="142.383"
+            x="142.5225"
             y="0"
-            width="114.52949999999998"
+            width="114.762"
             height="8"
             fill="#858585"
           />
@@ -156,9 +156,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="256.9125"
+            x="257.2845"
             y="0"
-            width="83.65349999999998"
+            width="83.74650000000001"
             height="8"
             fill="#3572A5"
           />
@@ -166,9 +166,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="340.56600000000003"
+            x="341.031"
             y="0"
-            width="49.662"
+            width="49.941"
             height="8"
             fill="#ef7a08"
           />
@@ -176,7 +176,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="390.228"
+            x="390.972"
             y="0"
             width="44.2215"
             height="8"
@@ -186,9 +186,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="434.4495"
+            x="435.1935"
             y="0"
-            width="30.1785"
+            width="30.132"
             height="8"
             fill="#858585"
           />
@@ -197,7 +197,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go - 258 hrs 29 mins
+        Go - 258 hrs 30 mins
       </text>
     </g>
   
@@ -218,7 +218,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#ef7a08" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        OCaml - 90 hrs 13 mins
+        OCaml - 90 hrs 38 mins
       </text>
     </g>
   
