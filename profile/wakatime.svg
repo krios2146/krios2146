@@ -218,7 +218,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#ef7a08" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        OCaml - 90 hrs 38 mins
+        OCaml - 90 hrs 43 mins
       </text>
     </g>
   
