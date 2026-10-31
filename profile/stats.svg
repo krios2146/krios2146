@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Vladimir Kidiaev&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 118, Total Commits  (last year) : 394, Total PRs: 144, Merged PRs Percentage: 94.44, Total Issues: 52, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 119, Total Commits  (last year) : 394, Total PRs: 144, Merged PRs Percentage: 94.44, Total Issues: 52, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 57.5860522761685;
+        stroke-dashoffset: 57.43851810440224;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >118</text>
+      >119</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
