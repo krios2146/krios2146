@@ -138,7 +138,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="143.5455"
+            width="143.127"
             height="8"
             fill="#00ADD8"
           />
@@ -146,9 +146,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="143.5455"
+            x="143.127"
             y="0"
-            width="114.01799999999999"
+            width="113.73899999999999"
             height="8"
             fill="#858585"
           />
@@ -156,9 +156,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="257.5635"
+            x="256.866"
             y="0"
-            width="83.32800000000002"
+            width="83.0025"
             height="8"
             fill="#3572A5"
           />
@@ -166,9 +166,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="340.8915"
+            x="339.8685"
             y="0"
-            width="49.801500000000004"
+            width="50.126999999999995"
             height="8"
             fill="#ef7a08"
           />
@@ -176,7 +176,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="390.693"
+            x="389.9955"
             y="0"
             width="44.5005"
             height="8"
@@ -186,7 +186,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="435.1935"
+            x="434.496"
             y="0"
             width="29.9925"
             height="8"
@@ -218,14 +218,14 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#ef7a08" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        OCaml - 90 hrs 46 mins
+        OCaml - 91 hrs 33 mins
       </text>
     </g>
   
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua - 81 hrs 18 mins
+        Lua - 81 hrs 25 mins
       </text>
     </g>
   
