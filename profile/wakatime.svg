@@ -138,7 +138,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="148.1955"
+            width="149.3115"
             height="8"
             fill="#00ADD8"
           />
@@ -146,9 +146,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="148.1955"
+            x="149.3115"
             y="0"
-            width="111.8325"
+            width="111.321"
             height="8"
             fill="#858585"
           />
@@ -156,9 +156,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="260.028"
+            x="260.6325"
             y="0"
-            width="81.6075"
+            width="81.23549999999999"
             height="8"
             fill="#3572A5"
           />
@@ -166,9 +166,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="341.63550000000004"
+            x="341.868"
             y="0"
-            width="49.196999999999996"
+            width="49.0575"
             height="8"
             fill="#ef7a08"
           />
@@ -176,9 +176,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="390.83250000000004"
+            x="390.9255"
             y="0"
-            width="43.803000000000004"
+            width="43.523999999999994"
             height="8"
             fill="#000080"
           />
@@ -186,9 +186,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="434.63550000000004"
+            x="434.4495"
             y="0"
-            width="29.946000000000005"
+            width="29.853"
             height="8"
             fill="#858585"
           />
@@ -197,7 +197,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go - 275 hrs 32 mins
+        Go - 279 hrs
       </text>
     </g>
   
